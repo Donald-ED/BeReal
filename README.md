@@ -32,7 +32,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://user-images.githubusercontent.com/55097668/225468959-a632f543-e956-4f6d-b922-459e7c7e66a4.mov
+
+
+https://user-images.githubusercontent.com/55097668/225469158-43cc2cb2-4f70-4296-ba9c-65a4ea76ad52.mov
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Screen recorder on iPhone
